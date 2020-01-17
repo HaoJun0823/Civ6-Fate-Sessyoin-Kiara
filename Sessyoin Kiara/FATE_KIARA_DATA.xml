@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- FATE_KIARA_DATA -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 2019/2/16 18:14:37 -->
+<GameData>
+
+	<Types>
+		<Row Type="LEADER_FATE_KIARA" Kind="KIND_LEADER"/>
+		<Row Type="CIVILIZATION_FATE_KIARA" Kind="KIND_CIVILIZATION"/>
+		
+	</Types>
+
+	<Civilizations>
+		<Row CivilizationType="CIVILIZATION_FATE_KIARA" Name="LOC_CIVILIZATION_FATE_KIARA_NAME" Description="LOC_CIVILIZATION_FATE_KIARA_DESCRIPTION" Adjective="LOC_CIVILIZATION_FATE_KIARA_ADJECTIVE" StartingCivilizationLevelType="CIVILIZATION_LEVEL_FULL_CIV" RandomCityNameDepth="1" Ethnicity="ETHNICITY_ASIAN" />
+	</Civilizations>
+
+
+
+
+
+	<CivilizationLeaders>
+		<Row CivilizationType="CIVILIZATION_FATE_QIN" LeaderType="LEADER_FATE_QIN" CapitalName="LOC_CITY_NAME_XIAN"/>
+	</CivilizationLeaders>
+
+	<CivilizationInfo>
+
+		<Row CivilizationType="CIVILIZATION_FATE_KIARA" Header="LOC_CIVINFO_LOCATION" Caption="LOC_CIVINFO_CHINA_LOCATION" SortIndex="10" />
+		<Row CivilizationType="CIVILIZATION_FATE_KIARA" Header="LOC_CIVINFO_SIZE" Caption="LOC_CIVINFO_CHINA_SIZE" SortIndex="20" />
+		<Row CivilizationType="CIVILIZATION_FATE_KIARA" Header="LOC_CIVINFO_POPULATION" Caption="LOC_CIVINFO_CHINA_POPULATION" SortIndex="30" />
+		<Row CivilizationType="CIVILIZATION_FATE_KIARA" Header="LOC_CIVINFO_CAPITAL" Caption="LOC_CIVINFO_CHINA_CAPITAL" SortIndex="40" />
+
+
+	</CivilizationInfo>
+
+</GameData>

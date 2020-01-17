@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- fate_sessyoin_kiara_pre_text -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 3/16/2019 2:35:51 PM -->
+<GameData>
+
+
+	<LocalizedText>
+		
+		<Row Tag="LOC_CIVILIZATION_FATE_SESSYOIN_KIARA_ABILITY_DESC" Language="zh_Hans_CN">
+			<Text>[ICON_GreatPerson]大预言家点数+10000%。[NEWLINE][ICON_Housing]宜居度+10000%。[NEWLINE][ICON_Citizen]人口增长速度+10000%。</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_FATE_SESSYOIN_KIARA_ABILITY_NAME" Language="zh_Hans_CN">
+			<Text>『爱欲』之理</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_FATE_SESSYOIN_KIARA_NAME" Language="zh_Hans_CN">
+			<Text>BEAST III/R</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FATE_SESSYOIN_KIARA_ABILITY_DESC" Language="zh_Hans_CN">
+			<Text>[ICON_Capital]首都+333%[ICON_Science][ICON_Gold][ICON_Production][ICON_Food][ICON_Culture][ICON_Faith]，边境扩张速度提高100%。[NEWLINE]所有城市宗教强度大翻倍，首都超级翻倍。</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FATE_SESSYOIN_KIARA_ABILITY_NAME" Language="zh_Hans_CN">
+			<Text>女神変生</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FATE_SESSYOIN_KIARA_NAME" Language="zh_Hans_CN">
+			<Text>杀生院·祈荒</Text>
+		</Row>
+
+		<Row Tag="LOC_FATE_SESSYOIN_KIARA_FOOD_NAME" Language="zh_Hans_CN">
+			<Text>杀生院极品萩饼</Text>
+		</Row>
+
+		<Row Tag="LOC_FATE_SESSYOIN_KIARA_FOOD_DESC" Language="zh_Hans_CN">
+			<Text>若你对目标城市忠诚度压力最高，目标城市直接转化为你的城市。[NEWLINE]忠诚度输出大幅度强化。</Text>
+		</Row>
+
+
+
+
+
+
+
+
+		<Row Tag="LOC_FATE_SESSYOIN_KIARA_ALTEREGO_BEAST_NAME" Language="zh_Hans_CN">
+			<Text>Nega Saver</Text>
+		</Row>
+
+		<Row Tag="LOC_FATE_SESSYOIN_KIARA_DREAM_NAME" Language="zh_Hans_CN">
+			<Text>万色悠滞</Text>
+		</Row>
+
+		<Row Tag="LOC_FATE_SESSYOIN_KIARA_DREAM_DESC" Language="zh_Hans_CN">
+			<Text>所有城市宗教强度大翻倍，首都超级翻倍。</Text>
+		</Row>
+
+		<Row Tag="LOC_FATE_SESSYOIN_KIARA_EARTH_NAME" Language="zh_Hans_CN">
+			<Text>天堂之孔</Text>
+		</Row>
+
+		<Row Tag="LOC_FATE_SESSYOIN_KIARA_EARTH_DESC" Language="zh_Hans_CN">
+			<Text>没有维护费和厌战情绪，每个城市可以建造无上限的区域。</Text>
+		</Row>
+
+		<Row Tag="LOC_FATE_SESSYOIN_KIARA_ALTEREGO_1_NAME" Language="zh_Hans_CN">
+			<Text>五停心观</Text>
+		</Row>
+
+		<Row Tag="LOC_FATE_SESSYOIN_KIARA_ALTEREGO_1_DESC" Language="zh_Hans_CN">
+			<Text>无法建造移民，所有单位生产力-75%[ICON_ProductionLarge]，单位购买+300%[ICON_GoldLarge]。</Text>
+		</Row>
+
+		<Row Tag="LOC_FATE_SESSYOIN_KIARA_ALTEREGO_2_NAME" Language="zh_Hans_CN">
+			<Text>理性吞噬者</Text>
+		</Row>
+
+		<Row Tag="LOC_FATE_SESSYOIN_KIARA_ALTEREGO_2_DESC" Language="zh_Hans_CN">
+			<Text>[ICON_Envoy]获得效率提高，每个城邦会提供宗主国10%[ICON_GoldLarge][ICON_CultureLarge][ICON_FaithLarge][ICON_ScienceLarge]。</Text>
+		</Row>
+
+		<Row Tag="LOC_FATE_SESSYOIN_KIARA_ALTEREGO_3_NAME" Language="zh_Hans_CN">
+			<Text>快乐天·胎藏曼荼罗</Text>
+		</Row>
+
+		<Row Tag="LOC_FATE_SESSYOIN_KIARA_ALTEREGO_3_DESC" Language="zh_Hans_CN">
+			<Text>单位可以从攻击中回复生命值。</Text>
+		</Row>
+
+		<Row Tag="LOC_FATE_SESSYOIN_KIARA_ALTEREGO_BEAST_DESC" Language="zh_Hans_CN">
+			<Text>&quot;众生无边誓愿度——&quot;</Text>
+		</Row>
+
+		<Row Tag="LOC_FATE_SESSYOIN_KIARA_FOOD_NAME" Language="zh_Hans_CN">
+			<Text>杀生院极品萩饼</Text>
+		</Row>
+
+		<Row Tag="LOC_FATE_SESSYOIN_KIARA_FOOD_DESC" Language="zh_Hans_CN">
+			<Text>若你对目标城市忠诚度压力最高，目标城市直接转化为你的城市。[NEWLINE]忠诚度输出大幅度强化。</Text>
+		</Row>
+		
+
+	</LocalizedText>
+	
+
+</GameData>

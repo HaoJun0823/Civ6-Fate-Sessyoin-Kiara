@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- FATE_KIARA_ICON -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 2019/2/16 17:51:25 -->
+<GameData>
+	<IconTextureAtlases>
+		<Row Name="ICON_FATE_KIARA_SET" IconSize="256" IconsPerRow="3" IconsPerColumn="3" Filename="ICON_FATE_KIARA_SET_256.dds"/>
+		<Row Name="ICON_FATE_KIARA_SET" IconSize="200" IconsPerRow="3" IconsPerColumn="3" Filename="ICON_FATE_KIARA_SET_200.dds"/>
+		<Row Name="ICON_FATE_KIARA_SET" IconSize="128" IconsPerRow="3" IconsPerColumn="3" Filename="ICON_FATE_KIARA_SET_128.dds"/>
+		<Row Name="ICON_FATE_KIARA_SET" IconSize="80" IconsPerRow="3" IconsPerColumn="3" Filename="ICON_FATE_KIARA_SET_80.dds"/>
+		<Row Name="ICON_FATE_KIARA_SET" IconSize="64" IconsPerRow="3" IconsPerColumn="3" Filename="ICON_FATE_KIARA_SET_64.dds"/>
+		<Row Name="ICON_FATE_KIARA_SET" IconSize="55" IconsPerRow="3" IconsPerColumn="3" Filename="ICON_FATE_KIARA_SET_55.dds"/>
+		<Row Name="ICON_FATE_KIARA_SET" IconSize="50" IconsPerRow="3" IconsPerColumn="3" Filename="ICON_FATE_KIARA_SET_50.dds"/>
+		<Row Name="ICON_FATE_KIARA_SET" IconSize="48" IconsPerRow="3" IconsPerColumn="3" Filename="ICON_FATE_KIARA_SET_48.dds"/>
+		<Row Name="ICON_FATE_KIARA_SET" IconSize="45" IconsPerRow="3" IconsPerColumn="3" Filename="ICON_FATE_KIARA_SET_45.dds"/>
+		<Row Name="ICON_FATE_KIARA_SET" IconSize="44" IconsPerRow="3" IconsPerColumn="3" Filename="ICON_FATE_KIARA_SET_44.dds"/>
+		<Row Name="ICON_FATE_KIARA_SET" IconSize="36" IconsPerRow="3" IconsPerColumn="3" Filename="ICON_FATE_KIARA_SET_36.dds"/>
+		<Row Name="ICON_FATE_KIARA_SET" IconSize="32" IconsPerRow="3" IconsPerColumn="3" Filename="ICON_FATE_KIARA_SET_32.dds"/>
+		<Row Name="ICON_FATE_KIARA_SET" IconSize="30" IconsPerRow="3" IconsPerColumn="3" Filename="ICON_FATE_KIARA_SET_30.dds"/>
+		<Row Name="ICON_FATE_KIARA_SET" IconSize="22" IconsPerRow="3" IconsPerColumn="3" Filename="ICON_FATE_KIARA_SET_22.dds"/>
+	</IconTextureAtlases>
+
+	<IconDefinitions>
+		<Row Name="ICON_FATE_KIARA_SET_MOONCELL" Atlas="ICON_FATE_KIARA_SET" index="0"/>
+		<Row Name="ICON_FATE_KIARA_SET_ALTEREGO_4" Atlas="ICON_FATE_KIARA_SET" index="1"/>
+		<Row Name="ICON_FATE_KIARA_SET_SEA" Atlas="ICON_FATE_KIARA_SET" index="2"/>
+		<Row Name="ICON_FATE_KIARA_SET_HEAVEN" Atlas="ICON_FATE_KIARA_SET" index="3"/>
+		<Row Name="ICON_FATE_KIARA_SET_ALTEREGO_1" Atlas="ICON_FATE_KIARA_SET" index="4"/>
+		<Row Name="ICON_FATE_KIARA_SET_FOOD" Atlas="ICON_FATE_KIARA_SET" index="5"/>
+		<Row Name="ICON_FATE_KIARA_SET_ALTEREGO_2" Atlas="ICON_FATE_KIARA_SET" index="6"/>
+		<Row Name="ICON_FATE_KIARA_SET_ALTEREGO_3" Atlas="ICON_FATE_KIARA_SET" index="7"/>
+		<Row Name="ICON_FATE_KIARA_SET_BEAST" Atlas="ICON_FATE_KIARA_SET" index="8"/>
+	</IconDefinitions>
+
+</GameData>

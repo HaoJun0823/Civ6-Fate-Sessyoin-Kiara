@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- fate_sessyoin_kiara_civ -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 3/12/2019 7:31:19 PM -->
+<GameData>
+	<Types>
+		<Row Type="CIVILIZATION_FATE_SESSYOIN_KIARA" Kind="KIND_CIVILIZATION"/>
+	</Types>
+
+	<Civilizations>
+		<Row CivilizationType="CIVILIZATION_FATE_SESSYOIN_KIARA" Name="LOC_CIVILIZATION_FATE_SESSYOIN_KIARA_NAME" Description="LOC_CIVILIZATION_FATE_SESSYOIN_KIARA_DESCRIPTION" Adjective="LOC_CIVILIZATION_FATE_SESSYOIN_KIARA_ADJECTIVE" RandomCityNameDepth="0" StartingCivilizationLevelType="CIVILIZATION_LEVEL_FULL_CIV" Ethnicity="ETHNICITY_EURO"/>
+	</Civilizations>
+
+	<CivilizationLeaders>
+		<Row CivilizationType="CIVILIZATION_FATE_SESSYOIN_KIARA" LeaderType="LEADER_FATE_SESSYOIN_KIARA" CapitalName="LOC_CITY_NAME_FATE_BEAST_III_R"/>
+	</CivilizationLeaders>
+
+	<CityNames>
+		<Row CivilizationType="CIVILIZATION_FATE_SESSYOIN_KIARA" CityName="LOC_CITY_NAME_FATE_BEAST_III_R"/>
+	</CityNames>
+
+	<StartBiasRivers>
+		<Row CivilizationType="CIVILIZATION_FATE_SESSYOIN_KIARA" Tier="3"/>
+	</StartBiasRivers>
+
+	<StartBiasTerrains>
+		<Row CivilizationType="CIVILIZATION_FATE_SESSYOIN_KIARA" TerrainType="TERRAIN_OCEAN" Tier="3"/>
+	</StartBiasTerrains>
+	
+	
+	
+	
+	
+
+</GameData>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- fate_sessyoin_kiara_leader -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 3/16/2019 12:39:37 PM -->
+<GameData>
+
+	<Types>
+		<Row Type="LEADER_FATE_SESSYOIN_KIARA" Kind="KIND_LEADER"/>
+		
+	</Types>
+
+	<Leaders>
+		<Row LeaderType="LEADER_FATE_SESSYOIN_KIARA" Name="LOC_LEADER_FATE_SESSYOIN_KIARA_NAME" InheritFrom="LEADER_DEFAULT" Sex="Female"/>
+	</Leaders>
+
+	<LeaderQuotes>
+		<Row LeaderType="LEADER_FATE_SESSYOIN_KIARA" Quote="LOC_FATE_SESSYOIN_KIARA_MEETING"/>
+	</LeaderQuotes>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_FATE_SESSYOIN_KIARA_PRIMARY</Type>
+			<Color>255,255,0,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_FATE_SESSYOIN_KIARA_SECONDARY</Type>
+			<Color>255,255,255,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_FATE_SESSYOIN_KIARA_TEXT</Type>
+			<Color>255,0,255,255</Color>
+		</Row>
+	</Colors>
+
+	<PlayerColors>
+		<Row>
+			<Type>LEADER_FATE_SESSYOIN_KIARA</Type>
+			<Usage>Unique</Usage>
+			<PrimaryColor>COLOR_PLAYER_LEADER_FATE_SESSYOIN_KIARA_PRIMARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_LEADER_FATE_SESSYOIN_KIARA_SECONDARY</SecondaryColor>
+			<TextColor>COLOR_PLAYER_LEADER_FATE_SESSYOIN_KIARA_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+
+	<LoadingInfo>
+		<Row LeaderType="LEADER_FATE_SESSYOIN_KIARA" ForegroundImage="LEADER_FATE_KIARA_NEUTRAL_2" BackgroundImage="LEADER_NEUTRAL_FATE_KIARA_BACKGROUND_LOAD.dds" PlayDawnOfManAudio="1" LeaderText="LOC_LOADING_INFO_LEADER_FATE_KIARA_DESC"/>
+	</LoadingInfo>
+	<DiplomacyInfo>
+		<Row Type="LEADER_FATE_SESSYOIN_KIARA" BackgroundImage="LEADER_NEUTRAL_FATE_KIARA_BACKGROUND.dds"/>
+	</DiplomacyInfo>
+
+
+	<Types>
+
+		<Row Type="RELIGION_KIARA_LE" Kind="KIND_RELIGION"/>
+
+	</Types>
+
+	<Religions>
+
+		<Row>
+			<ReligionType>RELIGION_KIARA_LE</ReligionType>
+			<Name>LOC_RELIGION_KIARA_LE</Name>
+			<IconString>Le</IconString>
+			<RequiresCustomName>false</RequiresCustomName>
+			<Color>COLOR_PLAYER_LEADER_FATE_SESSYOIN_KIARA_PRIMARY</Color>
+		</Row>
+
+	</Religions>
+
+
+
+	<FavoredReligions>
+
+		<Row LeaderType="LEADER_FATE_SESSYOIN_KIARA" ReligionType="RELIGION_KIARA_LE" />
+
+	</FavoredReligions>
+
+	
+	
+
+
+
+</GameData>

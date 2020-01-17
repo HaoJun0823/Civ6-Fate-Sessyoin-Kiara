@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="KiaraDDS"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="ICON_FATE_KIARA_SET_128"/>
+			<m_ObjectName text="ICON_FATE_KIARA_SET_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FATE_KIARA_SET_200"/>
+			<m_ObjectName text="ICON_FATE_KIARA_SET_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FATE_KIARA_SET_22"/>
+			<m_ObjectName text="ICON_FATE_KIARA_SET_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FATE_KIARA_SET_256"/>
+			<m_ObjectName text="ICON_FATE_KIARA_SET_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FATE_KIARA_SET_30"/>
+			<m_ObjectName text="ICON_FATE_KIARA_SET_30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FATE_KIARA_SET_32"/>
+			<m_ObjectName text="ICON_FATE_KIARA_SET_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FATE_KIARA_SET_36"/>
+			<m_ObjectName text="ICON_FATE_KIARA_SET_36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FATE_KIARA_SET_44"/>
+			<m_ObjectName text="ICON_FATE_KIARA_SET_44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FATE_KIARA_SET_45"/>
+			<m_ObjectName text="ICON_FATE_KIARA_SET_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FATE_KIARA_SET_48"/>
+			<m_ObjectName text="ICON_FATE_KIARA_SET_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FATE_KIARA_SET_50"/>
+			<m_ObjectName text="ICON_FATE_KIARA_SET_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FATE_KIARA_SET_55"/>
+			<m_ObjectName text="ICON_FATE_KIARA_SET_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FATE_KIARA_SET_64"/>
+			<m_ObjectName text="ICON_FATE_KIARA_SET_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FATE_KIARA_SET_80"/>
+			<m_ObjectName text="ICON_FATE_KIARA_SET_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FATE_KIARA_NEUTRAL"/>
+			<m_ObjectName text="LEADER_FATE_KIARA_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FATE_KIARA_NEUTRAL_2"/>
+			<m_ObjectName text="LEADER_FATE_KIARA_NEUTRAL_2"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_NEUTRAL_FATE_KIARA_BACKGROUND"/>
+			<m_ObjectName text="LEADER_NEUTRAL_FATE_KIARA_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_NEUTRAL_FATE_KIARA_BACKGROUND_LOAD"/>
+			<m_ObjectName text="LEADER_NEUTRAL_FATE_KIARA_BACKGROUND_LOAD"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Religion_KIARA_LE_100"/>
+			<m_ObjectName text="Religion_KIARA_LE_100"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Religion_KIARA_LE_22"/>
+			<m_ObjectName text="Religion_KIARA_LE_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Religion_KIARA_LE_50"/>
+			<m_ObjectName text="Religion_KIARA_LE_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Religion_KIARA_LE_BIG_270"/>
+			<m_ObjectName text="Religion_KIARA_LE_BIG_270"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+
